@@ -1,0 +1,7 @@
+D:\Visual Stuido 2019 Projeler\RecapDemo\Abstract Classlar\bin\Debug\Abstract Classlar.exe.config
+D:\Visual Stuido 2019 Projeler\RecapDemo\Abstract Classlar\bin\Debug\Abstract Classlar.exe
+D:\Visual Stuido 2019 Projeler\RecapDemo\Abstract Classlar\bin\Debug\Abstract Classlar.pdb
+D:\Visual Stuido 2019 Projeler\RecapDemo\Abstract Classlar\obj\Debug\Abstract Classlar.csproj.CoreCompileInputs.cache
+D:\Visual Stuido 2019 Projeler\RecapDemo\Abstract Classlar\obj\Debug\Abstract Classlar.exe
+D:\Visual Stuido 2019 Projeler\RecapDemo\Abstract Classlar\obj\Debug\Abstract Classlar.pdb
+D:\Visual Stuido 2019 Projeler\RecapDemo\Abstract Classlar\obj\Debug\Abstract Classlar.csproj.AssemblyReference.cache

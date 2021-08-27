@@ -1,0 +1,7 @@
+D:\Visual Stuido 2019 Projeler\RecapDemo\AbstractTekrar\bin\Debug\AbstractTekrar.exe.config
+D:\Visual Stuido 2019 Projeler\RecapDemo\AbstractTekrar\bin\Debug\AbstractTekrar.exe
+D:\Visual Stuido 2019 Projeler\RecapDemo\AbstractTekrar\bin\Debug\AbstractTekrar.pdb
+D:\Visual Stuido 2019 Projeler\RecapDemo\AbstractTekrar\obj\Debug\AbstractTekrar.csproj.AssemblyReference.cache
+D:\Visual Stuido 2019 Projeler\RecapDemo\AbstractTekrar\obj\Debug\AbstractTekrar.csproj.CoreCompileInputs.cache
+D:\Visual Stuido 2019 Projeler\RecapDemo\AbstractTekrar\obj\Debug\AbstractTekrar.exe
+D:\Visual Stuido 2019 Projeler\RecapDemo\AbstractTekrar\obj\Debug\AbstractTekrar.pdb

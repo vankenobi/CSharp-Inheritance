@@ -1,0 +1,7 @@
+D:\Visual Stuido 2019 Projeler\RecapDemo\Laboratuvar\bin\Debug\Laboratuvar.exe.config
+D:\Visual Stuido 2019 Projeler\RecapDemo\Laboratuvar\bin\Debug\Laboratuvar.exe
+D:\Visual Stuido 2019 Projeler\RecapDemo\Laboratuvar\bin\Debug\Laboratuvar.pdb
+D:\Visual Stuido 2019 Projeler\RecapDemo\Laboratuvar\obj\Debug\Laboratuvar.csproj.AssemblyReference.cache
+D:\Visual Stuido 2019 Projeler\RecapDemo\Laboratuvar\obj\Debug\Laboratuvar.csproj.CoreCompileInputs.cache
+D:\Visual Stuido 2019 Projeler\RecapDemo\Laboratuvar\obj\Debug\Laboratuvar.exe
+D:\Visual Stuido 2019 Projeler\RecapDemo\Laboratuvar\obj\Debug\Laboratuvar.pdb

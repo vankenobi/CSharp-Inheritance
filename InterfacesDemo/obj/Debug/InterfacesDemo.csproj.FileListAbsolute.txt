@@ -1,0 +1,7 @@
+D:\Visual Stuido 2019 Projeler\RecapDemo\InterfacesDemo\bin\Debug\InterfacesDemo.exe.config
+D:\Visual Stuido 2019 Projeler\RecapDemo\InterfacesDemo\bin\Debug\InterfacesDemo.exe
+D:\Visual Stuido 2019 Projeler\RecapDemo\InterfacesDemo\bin\Debug\InterfacesDemo.pdb
+D:\Visual Stuido 2019 Projeler\RecapDemo\InterfacesDemo\obj\Debug\InterfacesDemo.csproj.AssemblyReference.cache
+D:\Visual Stuido 2019 Projeler\RecapDemo\InterfacesDemo\obj\Debug\InterfacesDemo.csproj.CoreCompileInputs.cache
+D:\Visual Stuido 2019 Projeler\RecapDemo\InterfacesDemo\obj\Debug\InterfacesDemo.exe
+D:\Visual Stuido 2019 Projeler\RecapDemo\InterfacesDemo\obj\Debug\InterfacesDemo.pdb

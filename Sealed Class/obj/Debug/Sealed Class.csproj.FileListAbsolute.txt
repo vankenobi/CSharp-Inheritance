@@ -1,0 +1,6 @@
+D:\Visual Stuido 2019 Projeler\RecapDemo\Sealed Class\bin\Debug\Sealed Class.exe.config
+D:\Visual Stuido 2019 Projeler\RecapDemo\Sealed Class\bin\Debug\Sealed Class.exe
+D:\Visual Stuido 2019 Projeler\RecapDemo\Sealed Class\bin\Debug\Sealed Class.pdb
+D:\Visual Stuido 2019 Projeler\RecapDemo\Sealed Class\obj\Debug\Sealed Class.csproj.CoreCompileInputs.cache
+D:\Visual Stuido 2019 Projeler\RecapDemo\Sealed Class\obj\Debug\Sealed Class.exe
+D:\Visual Stuido 2019 Projeler\RecapDemo\Sealed Class\obj\Debug\Sealed Class.pdb

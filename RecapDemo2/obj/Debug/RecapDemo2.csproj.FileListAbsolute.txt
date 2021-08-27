@@ -1,0 +1,6 @@
+D:\Visual Stuido 2019 Projeler\RecapDemo\RecapDemo2\bin\Debug\RecapDemo2.exe.config
+D:\Visual Stuido 2019 Projeler\RecapDemo\RecapDemo2\bin\Debug\RecapDemo2.exe
+D:\Visual Stuido 2019 Projeler\RecapDemo\RecapDemo2\bin\Debug\RecapDemo2.pdb
+D:\Visual Stuido 2019 Projeler\RecapDemo\RecapDemo2\obj\Debug\RecapDemo2.csproj.CoreCompileInputs.cache
+D:\Visual Stuido 2019 Projeler\RecapDemo\RecapDemo2\obj\Debug\RecapDemo2.exe
+D:\Visual Stuido 2019 Projeler\RecapDemo\RecapDemo2\obj\Debug\RecapDemo2.pdb

@@ -1,0 +1,7 @@
+D:\Visual Stuido 2019 Projeler\RecapDemo\VirtualMethod\bin\Debug\VirtualMethod.exe.config
+D:\Visual Stuido 2019 Projeler\RecapDemo\VirtualMethod\bin\Debug\VirtualMethod.exe
+D:\Visual Stuido 2019 Projeler\RecapDemo\VirtualMethod\bin\Debug\VirtualMethod.pdb
+D:\Visual Stuido 2019 Projeler\RecapDemo\VirtualMethod\obj\Debug\VirtualMethod.csproj.CoreCompileInputs.cache
+D:\Visual Stuido 2019 Projeler\RecapDemo\VirtualMethod\obj\Debug\VirtualMethod.exe
+D:\Visual Stuido 2019 Projeler\RecapDemo\VirtualMethod\obj\Debug\VirtualMethod.pdb
+D:\Visual Stuido 2019 Projeler\RecapDemo\VirtualMethod\obj\Debug\VirtualMethod.csproj.AssemblyReference.cache

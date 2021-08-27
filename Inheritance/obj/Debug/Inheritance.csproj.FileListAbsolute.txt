@@ -1,0 +1,7 @@
+D:\Visual Stuido 2019 Projeler\RecapDemo\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+D:\Visual Stuido 2019 Projeler\RecapDemo\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+D:\Visual Stuido 2019 Projeler\RecapDemo\Inheritance\bin\Debug\Inheritance.exe.config
+D:\Visual Stuido 2019 Projeler\RecapDemo\Inheritance\bin\Debug\Inheritance.exe
+D:\Visual Stuido 2019 Projeler\RecapDemo\Inheritance\bin\Debug\Inheritance.pdb
+D:\Visual Stuido 2019 Projeler\RecapDemo\Inheritance\obj\Debug\Inheritance.exe
+D:\Visual Stuido 2019 Projeler\RecapDemo\Inheritance\obj\Debug\Inheritance.pdb
