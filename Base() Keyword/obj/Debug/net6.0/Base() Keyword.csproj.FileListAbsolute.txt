@@ -1,0 +1,15 @@
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Base() Keyword\bin\Debug\net6.0\Base() Keyword.exe
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Base() Keyword\bin\Debug\net6.0\Base() Keyword.deps.json
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Base() Keyword\bin\Debug\net6.0\Base() Keyword.runtimeconfig.json
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Base() Keyword\bin\Debug\net6.0\Base() Keyword.dll
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Base() Keyword\bin\Debug\net6.0\Base() Keyword.pdb
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Base() Keyword\obj\Debug\net6.0\Base() Keyword.csproj.AssemblyReference.cache
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Base() Keyword\obj\Debug\net6.0\Base() Keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Base() Keyword\obj\Debug\net6.0\Base() Keyword.AssemblyInfoInputs.cache
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Base() Keyword\obj\Debug\net6.0\Base() Keyword.AssemblyInfo.cs
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Base() Keyword\obj\Debug\net6.0\Base() Keyword.csproj.CoreCompileInputs.cache
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Base() Keyword\obj\Debug\net6.0\Base() Keyword.dll
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Base() Keyword\obj\Debug\net6.0\refint\Base() Keyword.dll
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Base() Keyword\obj\Debug\net6.0\Base() Keyword.pdb
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Base() Keyword\obj\Debug\net6.0\Base() Keyword.genruntimeconfig.cache
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Base() Keyword\obj\Debug\net6.0\ref\Base() Keyword.dll
