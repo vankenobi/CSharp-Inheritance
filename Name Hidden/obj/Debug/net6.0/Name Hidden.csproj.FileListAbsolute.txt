@@ -1,0 +1,15 @@
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Name Hidden\bin\Debug\net6.0\Name Hidden.exe
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Name Hidden\bin\Debug\net6.0\Name Hidden.deps.json
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Name Hidden\bin\Debug\net6.0\Name Hidden.runtimeconfig.json
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Name Hidden\bin\Debug\net6.0\Name Hidden.dll
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Name Hidden\bin\Debug\net6.0\Name Hidden.pdb
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Name Hidden\obj\Debug\net6.0\Name Hidden.csproj.AssemblyReference.cache
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Name Hidden\obj\Debug\net6.0\Name Hidden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Name Hidden\obj\Debug\net6.0\Name Hidden.AssemblyInfoInputs.cache
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Name Hidden\obj\Debug\net6.0\Name Hidden.AssemblyInfo.cs
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Name Hidden\obj\Debug\net6.0\Name Hidden.csproj.CoreCompileInputs.cache
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Name Hidden\obj\Debug\net6.0\Name Hidden.dll
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Name Hidden\obj\Debug\net6.0\refint\Name Hidden.dll
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Name Hidden\obj\Debug\net6.0\Name Hidden.pdb
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Name Hidden\obj\Debug\net6.0\Name Hidden.genruntimeconfig.cache
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Name Hidden\obj\Debug\net6.0\ref\Name Hidden.dll

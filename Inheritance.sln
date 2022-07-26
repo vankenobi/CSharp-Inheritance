@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract Class Example", "A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorphism", "Polimorphism\Polimorphism.csproj", "{2DC7A595-C58A-4EDA-A678-751C01FAC259}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Name Hiding", "Name Hidden\Name Hiding.csproj", "{C92269E4-5654-4306-B053-560907E1E16A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{2DC7A595-C58A-4EDA-A678-751C01FAC259}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DC7A595-C58A-4EDA-A678-751C01FAC259}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DC7A595-C58A-4EDA-A678-751C01FAC259}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C92269E4-5654-4306-B053-560907E1E16A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C92269E4-5654-4306-B053-560907E1E16A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C92269E4-5654-4306-B053-560907E1E16A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C92269E4-5654-4306-B053-560907E1E16A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
