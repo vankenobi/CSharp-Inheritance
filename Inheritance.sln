@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31424.327
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{BDCA342B-A5C3-4D96-88D0-76A162B42C65}"
 EndProject
@@ -22,6 +22,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratuvar", "Laboratuvar\Laboratuvar.csproj", "{CE90D50E-339D-41B6-8677-414B6798827D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract Class Example", "Abstract Classlar 2\Abstract Class Example.csproj", "{061A8D57-D205-4471-BE58-9125F8316917}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorphism", "Polimorphism\Polimorphism.csproj", "{2DC7A595-C58A-4EDA-A678-751C01FAC259}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{061A8D57-D205-4471-BE58-9125F8316917}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{061A8D57-D205-4471-BE58-9125F8316917}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{061A8D57-D205-4471-BE58-9125F8316917}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DC7A595-C58A-4EDA-A678-751C01FAC259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DC7A595-C58A-4EDA-A678-751C01FAC259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DC7A595-C58A-4EDA-A678-751C01FAC259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DC7A595-C58A-4EDA-A678-751C01FAC259}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

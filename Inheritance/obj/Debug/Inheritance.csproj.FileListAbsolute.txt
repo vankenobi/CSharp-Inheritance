@@ -5,3 +5,11 @@ D:\Visual Stuido 2019 Projeler\RecapDemo\Inheritance\bin\Debug\Inheritance.exe
 D:\Visual Stuido 2019 Projeler\RecapDemo\Inheritance\bin\Debug\Inheritance.pdb
 D:\Visual Stuido 2019 Projeler\RecapDemo\Inheritance\obj\Debug\Inheritance.exe
 D:\Visual Stuido 2019 Projeler\RecapDemo\Inheritance\obj\Debug\Inheritance.pdb
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Inheritance\obj\Debug\Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Inheritance\obj\Debug\Inheritance.pdb
