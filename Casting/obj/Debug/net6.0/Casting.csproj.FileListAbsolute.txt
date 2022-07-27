@@ -1,0 +1,15 @@
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Casting\bin\Debug\net6.0\Casting.exe
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Casting\bin\Debug\net6.0\Casting.deps.json
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Casting\bin\Debug\net6.0\Casting.runtimeconfig.json
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Casting\bin\Debug\net6.0\Casting.dll
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Casting\bin\Debug\net6.0\Casting.pdb
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Casting\obj\Debug\net6.0\Casting.csproj.AssemblyReference.cache
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Casting\obj\Debug\net6.0\Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Casting\obj\Debug\net6.0\Casting.AssemblyInfoInputs.cache
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Casting\obj\Debug\net6.0\Casting.AssemblyInfo.cs
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Casting\obj\Debug\net6.0\Casting.csproj.CoreCompileInputs.cache
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Casting\obj\Debug\net6.0\Casting.dll
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Casting\obj\Debug\net6.0\refint\Casting.dll
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Casting\obj\Debug\net6.0\Casting.pdb
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Casting\obj\Debug\net6.0\Casting.genruntimeconfig.cache
+C:\Users\musak\OneDrive\Masaüstü\CSharp-Inheritance\Casting\obj\Debug\net6.0\ref\Casting.dll
